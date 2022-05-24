@@ -65,11 +65,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-<<<<<<< HEAD
-    - _Hue: 0.76576614
-=======
-    - _Hue: 0.7696489
->>>>>>> 4382ba92739f27ba534734cc21ad5a3f1181dcfa
+    - _Hue: 0.68528366
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -87,11 +83,7 @@ Material:
     - _StencilWriteMask: 255
     - _UVSec: 0
     - _UseUIAlphaClip: 0
-<<<<<<< HEAD
     - _Val: 1
-=======
-    - _Val: 0.6999997
->>>>>>> 4382ba92739f27ba534734cc21ad5a3f1181dcfa
     - _WheelsCount: 1
     - _ZWrite: 1
     m_Colors:
